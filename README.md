@@ -4,7 +4,7 @@ This project was part of the course CS433 : Computer Networks offered at IIT Gan
 
 Mini-LinkedIn is a program using networking paradigms that supports important LinkedIn features like feed, job posting and searching, connecting and networking, creating companies, and building profiles. Mini-LinkedIn consists of several different features, taking inspiration from the popular social networking platform LinkedIn. The server and client model for Mini-LinkedIn work on TCP protocol, where the server serves the requests by the client(s). The server interacts with the database to retrieve, insert, delete and update data of the users/companies.
 
-Refere [here](https://drive.google.com/file/d/1vJW2BivOlTaVQUtTXIGNVeY_G1q-XK-u/view?usp=sharing) for our **demonstration video and presentation**.
+Refer [here](https://drive.google.com/file/d/1vJW2BivOlTaVQUtTXIGNVeY_G1q-XK-u/view?usp=sharing) for our **demonstration video and presentation**.
 
 Refer [here](./architecture/Project_Proposal_Mini_LinkedIn.pdf) for our **project proposal** for Mini-LinkedIn.
 
